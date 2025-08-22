@@ -1,5 +1,5 @@
 # hazfaxtaran
-<img src="hazfaxtaran.png">
+<img src="hazfaxtaran.png" style="width:200px;height:200px">
 star remover
 
 download:
